@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Passive Income</title>
+    <link>https://milaiai.github.io/passive_income/</link>
+    <description>Recent content on Passive Income</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>milai.ai.share@gmail.com (Qingbao)</managingEditor>
+    <webMaster>milai.ai.share@gmail.com (Qingbao)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://milaiai.github.io/passive_income/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>博客搭建</title>
+        <link>https://milaiai.github.io/passive_income/posts/blog/</link>
+        <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+        <author>milai.ai.share@gmail.com (Qingbao)</author>
+        <atom:modified>Sun, 12 May 2024 00:00:00 +0000</atom:modified>
+        <guid>https://milaiai.github.io/passive_income/posts/blog/</guid>
+        <description>Cloudreve 能当图床用的云盘——Cloudreve初探 图床 PicGo</description>
+        
+        <dc:creator>qingbao</dc:creator>
+        <media:content url="https://milaiai.github.io/passive_income/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>银行卡开户</title>
+        <link>https://milaiai.github.io/passive_income/posts/bank/</link>
+        <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+        <author>milai.ai.share@gmail.com (Qingbao)</author>
+        <atom:modified>Wed, 08 May 2024 00:00:00 +0000</atom:modified>
+        <guid>https://milaiai.github.io/passive_income/posts/bank/</guid>
+        <description>OCBC新加坡银行 推荐码： DRLS37JB WISE 开户: https://wise.com/invite/ath/yubaol1 香港银行卡 实体银行 大家好,今天给大家分享一下我在香港开户的经历. 我是今年5月1号劳动节前去的香港. 我在</description>
+        
+        <dc:creator>Yubao</dc:creator>
+        <media:content url="https://milaiai.github.io/passive_income/img/cover.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>bank</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

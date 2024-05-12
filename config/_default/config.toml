@@ -1,9 +1,12 @@
-baseURL = "http://example.org"
+baseURL = "https://milaiai.github.io/passive_income/"
+#baseURL = "https://freelyearning.com/"
 title = "Passive Income"
 theme = "zzo"
 
+publishDir = "docs"
+
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70
@@ -16,7 +19,9 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "G-1P8FHXZ4T8"
+
+post_asset_folder = true
 
 [markup]
   [markup.goldmark]

@@ -1,18 +1,163 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://localhost:1313/ko/sitemap.xml</loc>
-		
-	   	<lastmod>2019-10-19T11:44:14+09:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://localhost:1313/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-03-05T14:08:48+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/showcase/hugo/hugo-theme-zzo/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/showcase/hugo/hugo-theme-zdoc/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/tags/blog/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/categories/blog/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/categories/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/posts/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/tags/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/posts/blog/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/tags/bank/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/posts/bank/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/publication/article/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/publication/book/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/publication/misc/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/publication/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/gallery/cartoon/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/gallery/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/gallery/photo/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/presentation/dir/fourth/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/presentation/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/presentation/third/</loc>
+    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/presentation/second/</loc>
+    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/presentation/first/</loc>
+    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/publication/article/article_any_folder_name_1/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://milaiai.github.io/passive_income/series/</loc>
+  </url>
+  
+</urlset>

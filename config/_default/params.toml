@@ -1,11 +1,13 @@
+
+#baseURL = "https://yubaoliu.github.io/passive-income/"
 logoText = "Passive Income"
 logoType = "short" # long, short
-description = "Passive income site."
+description = "Earn money freely."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
-themecolor = "light"
+themecolor = "dark"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
@@ -56,14 +58,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Yubao"
-email = "yubaoshare@gmail.com"
-whoami = ""
+myname = "Qingbao"
+email = "milai.ai.share@gmail.com"
+whoami = "QQ群: 905799254"
 bioImageUrl = ""
 useGravatar = false
-location = "Aichi, Japan"
+location = "HK"
 organization = ""
-link = "www.ybliu.com"
+link = ""
 
 # sidebar
 enableBio = true
@@ -100,18 +102,18 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updatePeriod = "daily" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
 fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = ""
+disqus_shortname = "passive-income-1"
 commento = false
 
 [telegram]
-  enable = false
-  siteId = ""
+  enable = true
+  siteId = "https://t.me/joinchat/RJPTz24SoXwyYTEx"
   dataLimit = 5
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
@@ -158,19 +160,20 @@ commento = false
 
 [socialOptions]
   email = "yubaoshare@gmail.com"
+  twitter = ""
   phone = ""
   facebook = ""
-  twitter = "https://twitter.com/yubao_liu"
   github = ""
   stack-overflow = ""
   instagram = ""
-  youtube = ""
+  google-plus = ""
+  youtube = "https://studio.youtube.com/channel/UCnro8gpX4As-V8bOFESdUjg"
   medium = ""
   tumblr = ""
   linkedin = ""
   pinterest = ""
   stack-exchange = ""
-  telegram = ""
+  telegram = "https://t.me/joinchat/RJPTz24SoXwyYTEx"
   steam = ""
   weibo = ""
   douban = ""

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Passive Income</title>
+    <link>https://milaiai.github.io/passive_income/categories/</link>
+    <description>Recent content in Categories on Passive Income</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>milai.ai.share@gmail.com (Qingbao)</managingEditor>
+    <webMaster>milai.ai.share@gmail.com (Qingbao)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://milaiai.github.io/passive_income/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>blog</title>
+        <link>https://milaiai.github.io/passive_income/categories/blog/</link>
+        <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+        <author>milai.ai.share@gmail.com (Qingbao)</author>
+        
+        <guid>https://milaiai.github.io/passive_income/categories/blog/</guid>
+        <description></description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
